@@ -4,5 +4,7 @@ Repositorio para el Proyecto "Optimización de procesos por medio de computació
 
 Aquí se puede encontrar:
   -Código Principal 'GaussJ.c'
+  
   -Código Auxiliar para crear .txt, 'creaarchivo.c'
+  
   -Archivo MAKEFILE para la compilación
