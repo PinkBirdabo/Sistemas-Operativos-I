@@ -6,6 +6,8 @@ Aquí se puede encontrar:
   
   -Código Principal 'GaussJ.c'
   
-  -Código Auxiliar para crear .txt, 'creaarchivo.c'
+  -Código Auxiliar para crear matrices, 'creaarchivo.c'
   
   -Archivo MAKEFILE para la compilación
+  
+  -Archivo de Entrada .txt, "Datos.txt"
